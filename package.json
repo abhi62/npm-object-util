@@ -1,0 +1,23 @@
+{
+  "name": "@abhishek7262/object-util",
+  "version": "1.0.0",
+  "description": "Basic object util",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "babel src -d dist",
+    "prepare": "npm run build"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.17.3",
+    "@babel/core": "^7.17.4",
+    "@babel/preset-env": "^7.16.11"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "deep clone"
+  ],
+  "author": "Abhishek <abhi.leon.93@gmail.com>",
+  "license": "MIT"
+}
