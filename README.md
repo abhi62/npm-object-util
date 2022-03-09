@@ -1,5 +1,3 @@
-## Basic utility functions
+## Basic object utility functions
 
-1. Memoisation
-2. Flattening Array
-3. Deep clone object
+1. DeepFreez
